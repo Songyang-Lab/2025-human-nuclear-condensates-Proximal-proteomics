@@ -1,0 +1,391 @@
+GO	Description	Category	CategoryID
+GO:0000027	ribosomal large subunit assembly	GO Biological Processes	Ribosome biogenesis
+GO:0000028	ribosomal small subunit assembly	GO Biological Processes	Ribosome biogenesis
+GO:0000054	ribosomal subunit export from nucleus	GO Biological Processes	Ribosome biogenesis
+GO:0000055	ribosomal large subunit export from nucleus	GO Biological Processes	Ribosome biogenesis
+GO:0000056	ribosomal small subunit export from nucleus	GO Biological Processes	Ribosome biogenesis
+GO:0000075	cell cycle checkpoint signaling	GO Biological Processes	Cell Cycle
+GO:0000154	rRNA modification	GO Biological Processes	RNA modification
+GO:0000184	"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"	GO Biological Processes	RNA stabilization and catabolic process
+GO:0000245	spliceosomal complex assembly	GO Biological Processes	RNA Splicing and maturation
+GO:0000278	mitotic cell cycle	GO Biological Processes	Cell Cycle
+GO:0000288	"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"	GO Biological Processes	RNA stabilization and catabolic process
+GO:0000290	deadenylation-dependent decapping of nuclear-transcribed mRNA	GO Biological Processes	RNA Splicing and maturation
+GO:0000380	"alternative mRNA splicing, via spliceosome"	GO Biological Processes	RNA Splicing and maturation
+GO:0000381	"regulation of alternative mRNA splicing, via spliceosome"	GO Biological Processes	RNA Splicing and maturation
+GO:0000389	mRNA 3'-splice site recognition	GO Biological Processes	RNA Splicing and maturation
+GO:0000447	"endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"	GO Biological Processes	RNA Splicing and maturation
+GO:0000459	exonucleolytic trimming involved in rRNA processing	GO Biological Processes	RNA Splicing and maturation
+GO:0000460	maturation of 5.8S rRNA	GO Biological Processes	RNA Splicing and maturation
+GO:0000467	"exonucleolytic trimming to generate mature 3'-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"	GO Biological Processes	RNA Splicing and maturation
+GO:0000469	cleavage involved in rRNA processing	GO Biological Processes	RNA Splicing and maturation
+GO:0000470	maturation of LSU-rRNA	GO Biological Processes	RNA Splicing and maturation
+GO:0000472	"endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"	GO Biological Processes	RNA Splicing and maturation
+GO:0000478	endonucleolytic cleavage involved in rRNA processing	GO Biological Processes	RNA Splicing and maturation
+GO:0000479	"endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"	GO Biological Processes	RNA Splicing and maturation
+GO:0000480	"endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"	GO Biological Processes	RNA Splicing and maturation
+GO:0000723	telomere maintenance	GO Biological Processes	Chromatin stablity
+GO:0000724	double-strand break repair via homologous recombination	GO Biological Processes	DNA Repair
+GO:0000725	recombinational repair	GO Biological Processes	DNA Repair
+GO:0000731	DNA synthesis involved in DNA repair	GO Biological Processes	DNA Repair
+GO:0000956	nuclear-transcribed mRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0000966	RNA 5'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0000967	rRNA 5'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0001188	RNA polymerase I preinitiation complex assembly	GO Biological Processes	Pol I processing
+GO:0001510	RNA methylation	GO Biological Processes	RNA modification
+GO:0006260	DNA replication	GO Biological Processes	DNA replication
+GO:0006261	DNA-dependent DNA replication	GO Biological Processes	DNA replication
+GO:0006275	regulation of DNA replication	GO Biological Processes	DNA replication
+GO:0006278	RNA-dependent DNA biosynthetic process	GO Biological Processes	DNA replication
+GO:0006281	DNA repair	GO Biological Processes	DNA Repair
+GO:0006282	regulation of DNA repair	GO Biological Processes	DNA Repair
+GO:0006289	nucleotide-excision repair	GO Biological Processes	DNA Repair
+GO:0006302	double-strand break repair	GO Biological Processes	DNA Repair
+GO:0006334	nucleosome assembly	GO Biological Processes	Chromatin organization
+GO:0006335	DNA replication-dependent chromatin assembly	GO Biological Processes	DNA replication
+GO:0006336	DNA replication-independent chromatin assembly	GO Biological Processes	Chromatin organization
+GO:0006338	chromatin remodeling	GO Biological Processes	Chromatin organization
+GO:0006349	regulation of gene expression by genetic imprinting	GO Biological Processes	Transcriptional Regulation
+GO:0006356	regulation of transcription by RNA polymerase I	GO Biological Processes	Pol I processing
+GO:0006359	regulation of transcription by RNA polymerase III	GO Biological Processes	Pol III processing
+GO:0006360	transcription by RNA polymerase I	GO Biological Processes	Pol I processing
+GO:0006361	transcription initiation from RNA polymerase I promoter	GO Biological Processes	Pol I processing
+GO:0006366	transcription by RNA polymerase II	GO Biological Processes	Pol II processing
+GO:0006368	transcription elongation from RNA polymerase II promoter	GO Biological Processes	Pol II processing
+GO:0006376	mRNA splice site selection	GO Biological Processes	RNA Splicing and maturation
+GO:0006378	mRNA polyadenylation	GO Biological Processes	RNA Splicing and maturation
+GO:0006379	mRNA cleavage	GO Biological Processes	RNA Splicing and maturation
+GO:0006383	transcription by RNA polymerase III	GO Biological Processes	Pol III processing
+GO:0006401	RNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0006402	mRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0006405	RNA export from nucleus	GO Biological Processes	Transport
+GO:0006406	mRNA export from nucleus	GO Biological Processes	Transport
+GO:0006446	regulation of translational initiation	GO Biological Processes	Ribosome biogenesis
+GO:0006886	intracellular protein transport	GO Biological Processes	Transport
+GO:0006913	nucleocytoplasmic transport	GO Biological Processes	Transport
+GO:0007000	nucleolus organization	GO Biological Processes	Ribosome biogenesis
+GO:0007004	telomere maintenance via telomerase	GO Biological Processes	Chromatin stablity
+GO:0007062	sister chromatid cohesion	GO Biological Processes	Cell Cycle
+GO:0007093	mitotic cell cycle checkpoint signaling	GO Biological Processes	Cell Cycle
+GO:0007346	regulation of mitotic cell cycle	GO Biological Processes	Cell Cycle
+GO:0008156	negative regulation of DNA replication	GO Biological Processes	DNA replication
+GO:0008380	RNA splicing	GO Biological Processes	RNA Splicing and maturation
+GO:0009451	RNA modification	GO Biological Processes	RNA modification
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	GO Biological Processes	Cell Cycle
+GO:0010564	regulation of cell cycle process	GO Biological Processes	Cell Cycle
+GO:0010569	regulation of double-strand break repair via homologous recombination	GO Biological Processes	DNA Repair
+GO:0010586	miRNA metabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0010833	telomere maintenance via telomere lengthening	GO Biological Processes	Chromatin stablity
+GO:0010948	negative regulation of cell cycle process	GO Biological Processes	Cell Cycle
+GO:0010970	transport along microtubule	GO Biological Processes	Transport
+GO:0010972	negative regulation of G2/M transition of mitotic cell cycle	GO Biological Processes	Cell Cycle
+GO:0015931	nucleobase-containing compound transport	GO Biological Processes	Transport
+GO:0015986	ATP synthesis coupled proton transport	GO Biological Processes	Transport
+GO:0016073	snRNA metabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0016074	sno(s)RNA metabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0016075	rRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0016076	snRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0016078	tRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0016233	telomere capping	GO Biological Processes	Chromatin stablity
+GO:0016246	RNA interference	GO Biological Processes	RNA stabilization and catabolic process
+GO:0016571	histone methylation	GO Biological Processes	Chromatin organization
+GO:0016575	histone deacetylation	GO Biological Processes	Chromatin organization
+GO:0016577	histone demethylation	GO Biological Processes	Chromatin organization
+GO:0016973	poly(A)+ mRNA export from nucleus	GO Biological Processes	Transport
+GO:0017148	negative regulation of translation	GO Biological Processes	Ribosome biogenesis
+GO:0030490	maturation of SSU-rRNA	GO Biological Processes	RNA Splicing and maturation
+GO:0031047	gene silencing by RNA	GO Biological Processes	RNA stabilization and catabolic process
+GO:0031118	rRNA pseudouridine synthesis	GO Biological Processes	RNA modification
+GO:0031123	RNA 3'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0031124	mRNA 3'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0031125	rRNA 3'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0031126	sno(s)RNA 3'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0031297	replication fork processing	GO Biological Processes	DNA replication
+GO:0031440	regulation of mRNA 3'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0031445	regulation of heterochromatin assembly	GO Biological Processes	Chromatin organization
+GO:0031453	positive regulation of heterochromatin assembly	GO Biological Processes	Chromatin organization
+GO:0031497	chromatin assembly	GO Biological Processes	Chromatin organization
+GO:0031507	heterochromatin assembly	GO Biological Processes	Chromatin organization
+GO:0031848	protection from non-homologous end joining at telomere	GO Biological Processes	Chromatin stablity
+GO:0032200	telomere organization	GO Biological Processes	Chromatin stablity
+GO:0032202	telomere assembly	GO Biological Processes	Chromatin stablity
+GO:0032204	regulation of telomere maintenance	GO Biological Processes	Chromatin stablity
+GO:0032205	negative regulation of telomere maintenance	GO Biological Processes	Chromatin stablity
+GO:0032206	positive regulation of telomere maintenance	GO Biological Processes	Chromatin stablity
+GO:0032210	regulation of telomere maintenance via telomerase	GO Biological Processes	Chromatin stablity
+GO:0032211	negative regulation of telomere maintenance via telomerase	GO Biological Processes	Chromatin stablity
+GO:0032239	regulation of nucleobase-containing compound transport	GO Biological Processes	Transport
+GO:0032386	regulation of intracellular transport	GO Biological Processes	Transport
+GO:0032968	positive regulation of transcription elongation from RNA polymerase II promoter	GO Biological Processes	Pol II processing
+GO:0033157	regulation of intracellular protein transport	GO Biological Processes	Transport
+GO:0033750	ribosome localization	GO Biological Processes	Ribosome biogenesis
+GO:0034063	stress granule assembly	GO Biological Processes	Cellular responses to stress
+GO:0034243	regulation of transcription elongation from RNA polymerase II promoter	GO Biological Processes	Pol II processing
+GO:0034471	ncRNA 5'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0034661	ncRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0034723	DNA replication-dependent chromatin organization	GO Biological Processes	DNA replication
+GO:0034724	DNA replication-independent chromatin organization	GO Biological Processes	Chromatin organization
+GO:0034770	histone H4-K20 methylation	GO Biological Processes	Chromatin organization
+GO:0034773	histone H4-K20 trimethylation	GO Biological Processes	Chromatin organization
+GO:0034968	histone lysine methylation	GO Biological Processes	Chromatin organization
+GO:0034976	response to endoplasmic reticulum stress	GO Biological Processes	Cellular responses to stress
+GO:0035065	regulation of histone acetylation	GO Biological Processes	Chromatin organization
+GO:0035196	production of miRNAs involved in gene silencing by miRNA	GO Biological Processes	RNA stabilization and catabolic process
+GO:0036124	histone H3-K9 trimethylation	GO Biological Processes	Chromatin organization
+GO:0036297	interstrand cross-link repair	GO Biological Processes	DNA Repair
+GO:0040029	"regulation of gene expression, epigenetic"	GO Biological Processes	Transcriptional Regulation
+GO:0040031	snRNA modification	GO Biological Processes	RNA modification
+GO:0042254	ribosome biogenesis	GO Biological Processes	Ribosome biogenesis
+GO:0042255	ribosome assembly	GO Biological Processes	Ribosome biogenesis
+GO:0042273	ribosomal large subunit biogenesis	GO Biological Processes	Ribosome biogenesis
+GO:0042274	ribosomal small subunit biogenesis	GO Biological Processes	Ribosome biogenesis
+GO:0042791	5S class rRNA transcription by RNA polymerase III	GO Biological Processes	Pol III processing
+GO:0042795	snRNA transcription by RNA polymerase II	GO Biological Processes	Pol II processing
+GO:0042796	snRNA transcription by RNA polymerase III	GO Biological Processes	Pol III processing
+GO:0042797	tRNA transcription by RNA polymerase III	GO Biological Processes	Pol III processing
+GO:0043247	telomere maintenance in response to DNA damage	GO Biological Processes	Chromatin stablity
+GO:0043484	regulation of RNA splicing	GO Biological Processes	RNA Splicing and maturation
+GO:0043487	regulation of RNA stability	GO Biological Processes	RNA stabilization and catabolic process
+GO:0043488	regulation of mRNA stability	GO Biological Processes	RNA stabilization and catabolic process
+GO:0043489	RNA stabilization	GO Biological Processes	RNA stabilization and catabolic process
+GO:0043628	ncRNA 3'-end processing	GO Biological Processes	RNA Splicing and maturation
+GO:0043631	RNA polyadenylation	GO Biological Processes	RNA Splicing and maturation
+GO:0043633	polyadenylation-dependent RNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0043634	polyadenylation-dependent ncRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0043966	histone H3 acetylation	GO Biological Processes	Chromatin organization
+GO:0043968	histone H2A acetylation	GO Biological Processes	Chromatin organization
+GO:0044154	histone H3-K14 acetylation	GO Biological Processes	Chromatin organization
+GO:0044827	modulation by host of viral genome replication	GO Biological Processes	DNA replication
+GO:0045069	regulation of viral genome replication	GO Biological Processes	DNA replication
+GO:0045071	negative regulation of viral genome replication	GO Biological Processes	DNA replication
+GO:0045091	regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO Biological Processes	DNA replication
+GO:0045738	negative regulation of DNA repair	GO Biological Processes	DNA Repair
+GO:0045739	positive regulation of DNA repair	GO Biological Processes	DNA Repair
+GO:0045786	negative regulation of cell cycle	GO Biological Processes	Cell Cycle
+GO:0045787	positive regulation of cell cycle	GO Biological Processes	Cell Cycle
+GO:0045799	positive regulation of chromatin assembly or disassembly	GO Biological Processes	Chromatin organization
+GO:0045814	"negative regulation of gene expression, epigenetic"	GO Biological Processes	Transcriptional Regulation
+GO:0045869	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO Biological Processes	DNA replication
+GO:0045930	negative regulation of mitotic cell cycle	GO Biological Processes	Cell Cycle
+GO:0045943	positive regulation of transcription by RNA polymerase I	GO Biological Processes	Pol I processing
+GO:0045945	positive regulation of transcription by RNA polymerase III	GO Biological Processes	Pol III processing
+GO:0046599	regulation of centriole replication	GO Biological Processes	DNA replication
+GO:0046822	regulation of nucleocytoplasmic transport	GO Biological Processes	Transport
+GO:0046831	regulation of RNA export from nucleus	GO Biological Processes	Transport
+GO:0048024	"regulation of mRNA splicing, via spliceosome"	GO Biological Processes	RNA Splicing and maturation
+GO:0048255	mRNA stabilization	GO Biological Processes	RNA stabilization and catabolic process
+GO:0050657	nucleic acid transport	GO Biological Processes	Transport
+GO:0050658	RNA transport	GO Biological Processes	Transport
+GO:0050779	RNA destabilization	GO Biological Processes	RNA stabilization and catabolic process
+GO:0051028	mRNA transport	GO Biological Processes	Transport
+GO:0051169	nuclear transport	GO Biological Processes	Transport
+GO:0051321	meiotic cell cycle	GO Biological Processes	Cell Cycle
+GO:0051567	histone H3-K9 methylation	GO Biological Processes	Chromatin organization
+GO:0051568	histone H3-K4 methylation	GO Biological Processes	Chromatin organization
+GO:0051569	regulation of histone H3-K4 methylation	GO Biological Processes	Chromatin organization
+GO:0051570	regulation of histone H3-K9 methylation	GO Biological Processes	Chromatin organization
+GO:0051972	regulation of telomerase activity	GO Biological Processes	Chromatin stablity
+GO:0060211	regulation of nuclear-transcribed mRNA poly(A) tail shortening	GO Biological Processes	RNA stabilization and catabolic process
+GO:0060964	regulation of gene silencing by miRNA	GO Biological Processes	RNA stabilization and catabolic process
+GO:0060966	regulation of gene silencing by RNA	GO Biological Processes	RNA stabilization and catabolic process
+GO:0061013	regulation of mRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0061157	mRNA destabilization	GO Biological Processes	RNA stabilization and catabolic process
+GO:0061158	3'-UTR-mediated mRNA destabilization	GO Biological Processes	RNA stabilization and catabolic process
+GO:0061820	telomeric D-loop disassembly	GO Biological Processes	Chromatin stablity
+GO:0061982	meiosis I cell cycle process	GO Biological Processes	Cell Cycle
+GO:0070076	histone lysine demethylation	GO Biological Processes	Chromatin organization
+GO:0070198	"protein localization to chromosome, telomeric region"	GO Biological Processes	Chromatin stablity
+GO:0070828	heterochromatin organization	GO Biological Processes	Chromatin organization
+GO:0070918	production of small RNA involved in gene silencing by RNA	GO Biological Processes	RNA stabilization and catabolic process
+GO:0070934	CRD-mediated mRNA stabilization	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071025	RNA surveillance	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071027	nuclear RNA surveillance	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071028	nuclear mRNA surveillance	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071029	nuclear ncRNA surveillance	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071035	nuclear polyadenylation-dependent rRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071038	nuclear polyadenylation-dependent tRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071044	histone mRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071046	nuclear polyadenylation-dependent ncRNA catabolic process	GO Biological Processes	RNA stabilization and catabolic process
+GO:0071168	protein localization to chromatin	GO Biological Processes	Chromatin organization
+GO:0072384	organelle transport along microtubule	GO Biological Processes	Transport
+GO:0080135	regulation of cellular response to stress	GO Biological Processes	Cellular responses to stress
+GO:0080182	histone H3-K4 trimethylation	GO Biological Processes	Chromatin organization
+GO:0090068	positive regulation of cell cycle process	GO Biological Processes	Cell Cycle
+GO:0090309	positive regulation of DNA methylation-dependent heterochromatin assembly	GO Biological Processes	Chromatin organization
+GO:0090329	regulation of DNA-dependent DNA replication	GO Biological Processes	DNA replication
+GO:0090501	RNA phosphodiester bond hydrolysis	GO Biological Processes	RNA modification
+GO:0090502	"RNA phosphodiester bond hydrolysis, endonucleolytic"	GO Biological Processes	RNA modification
+GO:0090503	"RNA phosphodiester bond hydrolysis, exonucleolytic"	GO Biological Processes	RNA modification
+GO:0090657	telomeric loop disassembly	GO Biological Processes	Chromatin stablity
+GO:0090737	telomere maintenance via telomere trimming	GO Biological Processes	Chromatin stablity
+GO:0098789	pre-mRNA cleavage required for polyadenylation	GO Biological Processes	RNA Splicing and maturation
+GO:0099515	actin filament-based transport	GO Biological Processes	Transport
+GO:0106354	tRNA surveillance	GO Biological Processes	RNA stabilization and catabolic process
+GO:0110104	mRNA alternative polyadenylation	GO Biological Processes	RNA Splicing and maturation
+GO:0110154	RNA decapping	GO Biological Processes	RNA Splicing and maturation
+GO:0120261	regulation of heterochromatin organization	GO Biological Processes	Chromatin organization
+GO:0120263	positive regulation of heterochromatin organization	GO Biological Processes	Chromatin organization
+GO:0140374	antiviral innate immune response	GO Biological Processes	Cellular responses to stress
+GO:1900151	"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"	GO Biological Processes	RNA stabilization and catabolic process
+GO:1900363	regulation of mRNA polyadenylation	GO Biological Processes	RNA Splicing and maturation
+GO:1900407	regulation of cellular response to oxidative stress	GO Biological Processes	Cellular responses to stress
+GO:1901836	regulation of transcription of nucleolar large rRNA by RNA polymerase I	GO Biological Processes	Pol I processing
+GO:1901838	positive regulation of transcription of nucleolar large rRNA by RNA polymerase I	GO Biological Processes	Pol I processing
+GO:1901987	regulation of cell cycle phase transition	GO Biological Processes	Cell Cycle
+GO:1901988	negative regulation of cell cycle phase transition	GO Biological Processes	Cell Cycle
+GO:1901989	positive regulation of cell cycle phase transition	GO Biological Processes	Cell Cycle
+GO:1901990	regulation of mitotic cell cycle phase transition	GO Biological Processes	Cell Cycle
+GO:1901991	negative regulation of mitotic cell cycle phase transition	GO Biological Processes	Cell Cycle
+GO:1902600	proton transmembrane transport	GO Biological Processes	Transport
+GO:1902749	regulation of cell cycle G2/M phase transition	GO Biological Processes	Cell Cycle
+GO:1902750	negative regulation of cell cycle G2/M phase transition	GO Biological Processes	Cell Cycle
+GO:1902806	regulation of cell cycle G1/S phase transition	GO Biological Processes	Cell Cycle
+GO:1902808	positive regulation of cell cycle G1/S phase transition	GO Biological Processes	Cell Cycle
+GO:1902895	positive regulation of pri-miRNA transcription by RNA polymerase II	GO Biological Processes	Pol II processing
+GO:1903046	meiotic cell cycle process	GO Biological Processes	Cell Cycle
+GO:1903047	mitotic cell cycle process	GO Biological Processes	Cell Cycle
+GO:1903201	regulation of oxidative stress-induced cell death	GO Biological Processes	Cellular responses to stress
+GO:1903202	negative regulation of oxidative stress-induced cell death	GO Biological Processes	Cellular responses to stress
+GO:1903204	negative regulation of oxidative stress-induced neuron death	GO Biological Processes	Cellular responses to stress
+GO:1903608	protein localization to cytoplasmic stress granule	GO Biological Processes	Cellular responses to stress
+GO:1904356	regulation of telomere maintenance via telomere lengthening	GO Biological Processes	Chromatin stablity
+GO:1904357	negative regulation of telomere maintenance via telomere lengthening	GO Biological Processes	Chromatin stablity
+GO:1904814	"regulation of protein localization to chromosome, telomeric region"	GO Biological Processes	Chromatin stablity
+GO:1904816	"positive regulation of protein localization to chromosome, telomeric region"	GO Biological Processes	Chromatin stablity
+GO:1904872	regulation of telomerase RNA localization to Cajal body	GO Biological Processes	Chromatin stablity
+GO:1905168	positive regulation of double-strand break repair via homologous recombination	GO Biological Processes	DNA Repair
+GO:1905269	positive regulation of chromatin organization	GO Biological Processes	Chromatin organization
+GO:1905616	regulation of miRNA-mediated gene silencing by inhibition of translation	GO Biological Processes	RNA stabilization and catabolic process
+GO:2000045	regulation of G1/S transition of mitotic cell cycle	GO Biological Processes	Cell Cycle
+GO:2000622	"regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"	GO Biological Processes	RNA stabilization and catabolic process
+GO:2000677	regulation of transcription regulatory region DNA binding	GO Biological Processes	Transcriptional Regulation
+GO:2000779	regulation of double-strand break repair	GO Biological Processes	DNA Repair
+GO:2000781	positive regulation of double-strand break repair	GO Biological Processes	DNA Repair
+R-HSA-112382	Formation of RNA Pol II elongation complex	Reactome Gene Sets	Pol II processing
+R-HSA-1169410	Antiviral mechanism by IFN-stimulated genes	Reactome Gene Sets	Cellular responses to stress
+R-HSA-1362277	Transcription of E2F targets under negative control by DREAM complex	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-156842	Eukaryotic Translation Elongation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-156902	Peptide chain elongation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-157579	Telomere Maintenance	Reactome Gene Sets	Chromatin stablity
+R-HSA-159227	Transport of the SLBP independent Mature mRNA	Reactome Gene Sets	Transport
+R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	Reactome Gene Sets	Transport
+R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	Reactome Gene Sets	Transport
+R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	Reactome Gene Sets	Transport
+R-HSA-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	Reactome Gene Sets	Transport
+R-HSA-1640170	Cell Cycle	Reactome Gene Sets	Cell Cycle
+R-HSA-167172	Transcription of the HIV genome	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-168255	Influenza Infection	Reactome Gene Sets	Cellular responses to stress
+R-HSA-168273	Influenza Viral RNA Transcription and Replication	Reactome Gene Sets	DNA replication
+R-HSA-171306	Packaging Of Telomere Ends	Reactome Gene Sets	Chromatin stablity
+R-HSA-171319	Telomere Extension By Telomerase	Reactome Gene Sets	Chromatin stablity
+R-HSA-174411	Polymerase switching on the C-strand of the telomere	Reactome Gene Sets	Chromatin stablity
+R-HSA-174414	Processive synthesis on the C-strand of the telomere	Reactome Gene Sets	Chromatin stablity
+R-HSA-174417	Telomere C-strand (Lagging Strand) Synthesis	Reactome Gene Sets	Chromatin stablity
+R-HSA-174430	Telomere C-strand synthesis initiation	Reactome Gene Sets	Chromatin stablity
+R-HSA-180746	Nuclear import of Rev protein	Reactome Gene Sets	Transport
+R-HSA-180786	Extension of Telomeres	Reactome Gene Sets	Chromatin stablity
+R-HSA-180910	Vpr-mediated nuclear import of PICs	Reactome Gene Sets	Transport
+R-HSA-191859	snRNP Assembly	Reactome Gene Sets	RNA Splicing and maturation
+R-HSA-212165	Epigenetic regulation of gene expression	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-2262752	Cellular responses to stress	Reactome Gene Sets	Cellular responses to stress
+R-HSA-2559580	Oxidative Stress Induced Senescence	Reactome Gene Sets	Cellular responses to stress
+R-HSA-2559584	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	Reactome Gene Sets	Chromatin organization
+R-HSA-2559586	DNA Damage/Telomere Stress Induced Senescence	Reactome Gene Sets	Cellular responses to stress
+R-HSA-2980766	Nuclear Envelope Breakdown	Reactome Gene Sets	Cell Cycle
+R-HSA-3108214	SUMOylation of DNA damage response and repair proteins	Reactome Gene Sets	DNA Repair
+R-HSA-3232118	SUMOylation of transcription factors	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-3247509	Chromatin modifying enzymes	Reactome Gene Sets	Chromatin organization
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	Reactome Gene Sets	Cell Cycle
+R-HSA-3371453	Regulation of HSF1-mediated heat shock response	Reactome Gene Sets	Cellular responses to stress
+R-HSA-3371556	Cellular response to heat stress	Reactome Gene Sets	Cellular responses to stress
+R-HSA-3700989	Transcriptional Regulation by TP53	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-3899300	SUMOylation of transcription cofactors	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-426496	Post-transcriptional silencing by small RNAs	Reactome Gene Sets	RNA stabilization and catabolic process
+R-HSA-429914	Deadenylation-dependent mRNA decay	Reactome Gene Sets	RNA modification
+R-HSA-429947	Deadenylation of mRNA	Reactome Gene Sets	RNA modification
+R-HSA-430039	mRNA decay by 5' to 3' exoribonuclease	Reactome Gene Sets	RNA stabilization and catabolic process
+R-HSA-450513	"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA"	Reactome Gene Sets	RNA stabilization and catabolic process
+R-HSA-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	Reactome Gene Sets	RNA stabilization and catabolic process
+R-HSA-4551638	SUMOylation of chromatin organization proteins	Reactome Gene Sets	Chromatin organization
+R-HSA-4615885	SUMOylation of DNA replication proteins	Reactome Gene Sets	DNA replication
+R-HSA-4655427	SUMOylation of DNA methylation proteins	Reactome Gene Sets	Chromatin organization
+R-HSA-4839726	Chromatin organization	Reactome Gene Sets	Chromatin organization
+R-HSA-5578749	Transcriptional regulation by small RNAs	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-5685942	HDR through Homologous Recombination (HRR)	Reactome Gene Sets	Cell Cycle
+R-HSA-5693532	DNA Double-Strand Break Repair	Reactome Gene Sets	DNA Repair
+R-HSA-5693537	Resolution of D-Loop Structures	Reactome Gene Sets	DNA replication
+R-HSA-5693538	Homology Directed Repair	Reactome Gene Sets	DNA Repair
+R-HSA-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	Reactome Gene Sets	DNA Repair
+R-HSA-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	Reactome Gene Sets	DNA replication
+R-HSA-5693571	Nonhomologous End-Joining (NHEJ)	Reactome Gene Sets	DNA Repair
+R-HSA-5693579	Homologous DNA Pairing and Strand Exchange	Reactome Gene Sets	DNA Repair
+R-HSA-5693607	Processing of DNA double-strand break ends	Reactome Gene Sets	DNA Repair
+R-HSA-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	Reactome Gene Sets	DNA Repair
+R-HSA-5696394	DNA Damage Recognition in GG-NER	Reactome Gene Sets	DNA Repair
+R-HSA-5696398	Nucleotide Excision Repair	Reactome Gene Sets	DNA Repair
+R-HSA-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	Reactome Gene Sets	DNA Repair
+R-HSA-674695	RNA Polymerase II Pre-transcription Events	Reactome Gene Sets	Pol II processing
+R-HSA-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	Reactome Gene Sets	DNA Repair
+R-HSA-6790901	rRNA modification in the nucleus and cytosol	Reactome Gene Sets	RNA modification
+R-HSA-6796648	TP53 Regulates Transcription of DNA Repair Genes	Reactome Gene Sets	DNA Repair
+R-HSA-6803529	FGFR2 alternative splicing	Reactome Gene Sets	RNA Splicing and maturation
+R-HSA-6804114	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	Reactome Gene Sets	Cell Cycle
+R-HSA-6807505	RNA polymerase II transcribes snRNA genes	Reactome Gene Sets	Pol II processing
+R-HSA-68616	Assembly of the ORC complex at the origin of replication	Reactome Gene Sets	DNA replication
+R-HSA-68886	M Phase	Reactome Gene Sets	Cell Cycle
+R-HSA-69278	"Cell Cycle, Mitotic"	Reactome Gene Sets	Cell Cycle
+R-HSA-69473	G2/M DNA damage checkpoint	Reactome Gene Sets	Cell Cycle
+R-HSA-69481	G2/M Checkpoints	Reactome Gene Sets	Cell Cycle
+R-HSA-69620	Cell Cycle Checkpoints	Reactome Gene Sets	Cell Cycle
+R-HSA-72172	mRNA Splicing	Reactome Gene Sets	RNA Splicing and maturation
+R-HSA-72202	Transport of Mature Transcript to Cytoplasm	Reactome Gene Sets	Transport
+R-HSA-72613	Eukaryotic Translation Initiation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72649	Translation initiation complex formation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72689	Formation of a pool of free 40S subunits	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72702	Ribosomal scanning and start codon recognition	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72737	Cap-dependent Translation Initiation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72764	Eukaryotic Translation Termination	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-72766	Translation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-73728	RNA Polymerase I Promoter Opening	Reactome Gene Sets	Pol I processing
+R-HSA-73762	RNA Polymerase I Transcription Initiation	Reactome Gene Sets	Pol I processing
+R-HSA-73772	RNA Polymerase I Promoter Escape	Reactome Gene Sets	Pol I processing
+R-HSA-73780	RNA Polymerase III Chain Elongation	Reactome Gene Sets	Pol III processing
+R-HSA-73854	RNA Polymerase I Promoter Clearance	Reactome Gene Sets	Pol I processing
+R-HSA-73856	RNA Polymerase II Transcription Termination	Reactome Gene Sets	Pol II processing
+R-HSA-73863	RNA Polymerase I Transcription Termination	Reactome Gene Sets	Pol I processing
+R-HSA-73864	RNA Polymerase I Transcription	Reactome Gene Sets	Pol I processing
+R-HSA-73886	Chromosome Maintenance	Reactome Gene Sets	Chromatin stablity
+R-HSA-73894	DNA Repair	Reactome Gene Sets	DNA Repair
+R-HSA-73929	"Base-Excision Repair, AP Site Formation"	Reactome Gene Sets	DNA Repair
+R-HSA-73980	RNA Polymerase III Transcription Termination	Reactome Gene Sets	Pol III processing
+R-HSA-74158	RNA Polymerase III Transcription	Reactome Gene Sets	Pol III processing
+R-HSA-749476	RNA Polymerase III Abortive And Retractive Initiation	Reactome Gene Sets	Pol III processing
+R-HSA-75955	RNA Polymerase II Transcription Elongation	Reactome Gene Sets	Pol II processing
+R-HSA-76046	RNA Polymerase III Transcription Initiation	Reactome Gene Sets	Pol III processing
+R-HSA-76061	RNA Polymerase III Transcription Initiation From Type 1 Promoter	Reactome Gene Sets	Pol III processing
+R-HSA-76066	RNA Polymerase III Transcription Initiation From Type 2 Promoter	Reactome Gene Sets	Pol III processing
+R-HSA-76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter	Reactome Gene Sets	Pol III processing
+R-HSA-8853884	Transcriptional Regulation by VENTX	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-8864260	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-8878171	Transcriptional regulation by RUNX1	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-8943723	Regulation of PTEN mRNA translation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-8943724	Regulation of PTEN gene transcription	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-8948700	Competing endogenous RNAs (ceRNAs) regulate PTEN translation	Reactome Gene Sets	Ribosome biogenesis
+R-HSA-8953750	Transcriptional Regulation by E2F6	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-8953897	Cellular responses to stimuli	Reactome Gene Sets	Cellular responses to stress
+R-HSA-8986944	Transcriptional Regulation by MECP2	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-913531	Interferon Signaling	Reactome Gene Sets	Cellular responses to stress
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	Reactome Gene Sets	RNA stabilization and catabolic process
+R-HSA-9616222	Transcriptional regulation of granulopoiesis	Reactome Gene Sets	Transcriptional Regulation
+R-HSA-9670095	Inhibition of DNA recombination at telomere	Reactome Gene Sets	Chromatin stablity
+R-HSA-9675135	Diseases of DNA repair	Reactome Gene Sets	DNA Repair
+R-HSA-9675136	Diseases of DNA Double-Strand Break Repair	Reactome Gene Sets	DNA Repair
+R-HSA-9701192	Defective HDR through Homologous Recombination (HRR) due to BRCA1 loss-of-function	Reactome Gene Sets	DNA Repair
+R-HSA-9701193	Defective HDR through Homologous Recombination (HRR) due to PALB2 loss of function	Reactome Gene Sets	DNA Repair
+R-HSA-9704331	Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function	Reactome Gene Sets	DNA Repair
+R-HSA-9704646	Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function	Reactome Gene Sets	DNA Repair
+R-HSA-9711097	Cellular response to starvation	Reactome Gene Sets	Cellular responses to stress

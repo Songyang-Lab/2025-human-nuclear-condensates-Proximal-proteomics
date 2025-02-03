@@ -1,0 +1,16 @@
+CategoryID	rank
+Chromatin organization	1
+Chromatin stablity	1
+DNA replication	1
+Pol I processing	2
+Pol II processing	2
+Pol III processing	2
+Transcriptional Regulation	2
+RNA Splicing and maturation	3
+RNA modification	3
+RNA stabilization and catabolic process	3
+Ribosome biogenesis	3
+Transport	4
+Cellular responses to stress	4
+Cell Cycle	4
+DNA Repair	4
